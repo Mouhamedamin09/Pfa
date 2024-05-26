@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "YourApp",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
